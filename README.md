@@ -1,5 +1,7 @@
 
-This repository consists of frequently asked and discussed issues within the official [Dune Analytics discord channel](https://discord.gg/ErrzwBz). We love dune so much that
+This repository consists of frequently asked and discussed issues within the official [Dune Analytics discord channel](https://discord.gg/ErrzwBz). 
+
+We love dune so much that:
 
 * we have classified the conversations of the incredible dune community to help get started for any newcomers
 * this repository can serve to record pearls of wisdom shared among the community for easy access
