@@ -17,4 +17,4 @@ assignees: ''
 ## What is the suggested solution to the issue?
 
 
-#### The question answer is sourced from this  [FlipsideCrypto Discord Channel](https://discord.gg/mDm2fzDN)
+#### The question answer is sourced from this  [Dune Analytics Discord Channel](https://discord.com/invite/ErrzwBz)
